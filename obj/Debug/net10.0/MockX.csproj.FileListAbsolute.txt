@@ -12,3 +12,4 @@ C:\Users\MetCa\OneDrive\Masaüstü\MockX\obj\Debug\net10.0\refint\MockX.dll
 C:\Users\MetCa\OneDrive\Masaüstü\MockX\obj\Debug\net10.0\MockX.pdb
 C:\Users\MetCa\OneDrive\Masaüstü\MockX\obj\Debug\net10.0\MockX.genruntimeconfig.cache
 C:\Users\MetCa\OneDrive\Masaüstü\MockX\obj\Debug\net10.0\ref\MockX.dll
+C:\Users\MetCa\OneDrive\Masaüstü\MockX\obj\Debug\net10.0\MockX.sourcelink.json
