@@ -1,0 +1,14 @@
+C:\Users\MetCa\OneDrive\Masaüstü\MockX\obj\Debug\net10.0\MockX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MetCa\OneDrive\Masaüstü\MockX\obj\Debug\net10.0\MockX.AssemblyInfoInputs.cache
+C:\Users\MetCa\OneDrive\Masaüstü\MockX\obj\Debug\net10.0\MockX.AssemblyInfo.cs
+C:\Users\MetCa\OneDrive\Masaüstü\MockX\obj\Debug\net10.0\MockX.csproj.CoreCompileInputs.cache
+C:\Users\MetCa\OneDrive\Masaüstü\MockX\bin\Debug\net10.0\MockX.exe
+C:\Users\MetCa\OneDrive\Masaüstü\MockX\bin\Debug\net10.0\MockX.deps.json
+C:\Users\MetCa\OneDrive\Masaüstü\MockX\bin\Debug\net10.0\MockX.runtimeconfig.json
+C:\Users\MetCa\OneDrive\Masaüstü\MockX\bin\Debug\net10.0\MockX.dll
+C:\Users\MetCa\OneDrive\Masaüstü\MockX\bin\Debug\net10.0\MockX.pdb
+C:\Users\MetCa\OneDrive\Masaüstü\MockX\obj\Debug\net10.0\MockX.dll
+C:\Users\MetCa\OneDrive\Masaüstü\MockX\obj\Debug\net10.0\refint\MockX.dll
+C:\Users\MetCa\OneDrive\Masaüstü\MockX\obj\Debug\net10.0\MockX.pdb
+C:\Users\MetCa\OneDrive\Masaüstü\MockX\obj\Debug\net10.0\MockX.genruntimeconfig.cache
+C:\Users\MetCa\OneDrive\Masaüstü\MockX\obj\Debug\net10.0\ref\MockX.dll
